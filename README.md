@@ -1,4 +1,5 @@
 # Hi there, I'm Henrique Neves!!
 ## I'm a currently at university, UAM - SP
-- Learning C/C++ language
+- Learning Python
+- C/C++
 - I'm starting, so, I don't know much yet
