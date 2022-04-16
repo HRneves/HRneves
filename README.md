@@ -21,6 +21,7 @@ I'm starting, so, I don't know much yet
 ### SKILLS
 
 </br>
+<div>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/github-1c1c1c?style=for-the-badge&logo=github&logoColor=fff&logoWidth=20"/>
   <img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=fff&logoWidth=20"/>
@@ -53,3 +54,4 @@ I'm starting, so, I don't know much yet
   </a>
 
 ![Snake animation](https://github.com/HRneves/HRneves/blob/output/github-contribution-grid-snake.svg)
+
