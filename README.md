@@ -1,5 +1,5 @@
 ### Hello, I'm Henrique Neves
-```// Studying Java```
+```// Studying Python```
 I'm starting, so, I don't know much yet
 
 ##### :man_technologist: CC At Anhembi Morumbi
