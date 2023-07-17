@@ -53,5 +53,4 @@ I'm starting, so, I don't know much yet
    <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HRneves&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 
-![Snake animation](https://github.com/HRneves/HRneves/blob/output/github-contribution-grid-snake.svg)
 
