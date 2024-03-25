@@ -12,7 +12,7 @@ I'm starting, so, I don't know much yet
 </br>
 <div style="display: inline_block">
 <a href="mailto:henriqueroberto170@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-0078D4?style=for-the-badge&logo=gmail&logoColor=fff&logoWidth=20"/></a>
-<a href="https://www.linkedin.com/in/henrique-roberto-barbosa-das-neves-620b15207/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff&logoWidth=20"/></a>
+<a href="https://www.linkedin.com/in/henriquerbneves/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff&logoWidth=20"/></a>
 </div>
 </br>
 
